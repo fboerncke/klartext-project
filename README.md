@@ -8,7 +8,7 @@
 
 ## Warum Einfache Sprache?
 
-[Einfache Sprache](https://de.wikipedia.org/wiki/Einfache_Sprache), nicht zu verwechseln mit [Leichter Sprache](https://de.wikipedia.org/wiki/Leichte_Sprache), ist ein mächtiges Instrument, um Informationen für eine breitere Bevölkerungsschicht verständlich und zugänglich zu machen. Es gibt zwar keine festen Regeln für Einfache Sprache, aber bewährte Prinzipien:
+[Einfache Sprache](https://de.wikipedia.org/wiki/Einfache_Sprache) (nicht zu verwechseln mit [Leichter Sprache](https://de.wikipedia.org/wiki/Leichte_Sprache), ist ein mächtiges Instrument, um Informationen für eine breitere Bevölkerungsschicht verständlich und zugänglich zu machen. Es gibt zwar keine festen Regeln für Einfache Sprache, aber bewährte Prinzipien:
 
 - **Klare und logische Satzstruktur**: Sätze sollten einfach und verständlich aufgebaut sein.
 
