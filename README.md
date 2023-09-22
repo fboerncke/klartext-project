@@ -1,8 +1,8 @@
 # KlarText - Schwer lesbare Texte besser zugänglich machen
 
-## Projektübersicht
+<img src="./assets/klartext-logo.jpeg" style="border: 1px solid black;margin:5px" alt="KlarText Logo" width = "28%"  align="right"/>
 
-<img src="./assets/klartext-logo.jpeg" style="border: 1px solid black;margin:5px" alt="KlarText Logo" width = "18%"  align="right"/>
+## Projektbeschreibung
 
 **KlarText** ist ein Projekt, das sich der Aufgabe verschrieben hat, komplexe Texte mithilfe von künstlicher Intelligenz in Einfache Sprache umzuwandeln. Die Hauptmotivation hinter diesem Projekt besteht darin, die Zugänglichkeit von Informationen für Menschen mit begrenzter Lesekompetenz, funktionale Analphabeten und Nicht-Muttersprachler signifikant zu verbessern. Im Kern geht es darum, gesellschaftliche Barrieren abzubauen und die Teilhabe in der Gesellschaft zu fördern.
 
