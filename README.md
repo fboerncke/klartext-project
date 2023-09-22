@@ -2,11 +2,13 @@
 
 ## Projektübersicht
 
-KlarText ist ein Projekt, das sich der Aufgabe verschrieben hat, komplexe Texte mithilfe von künstlicher Intelligenz in Einfache Sprache umzuwandeln. Die Hauptmotivation hinter diesem Projekt besteht darin, die Zugänglichkeit von Informationen für Menschen mit begrenzter Lesekompetenz, funktionale Analphabeten und Nicht-Muttersprachler signifikant zu verbessern. Im Kern geht es darum, gesellschaftliche Barrieren abzubauen und die Teilhabe in der Gesellschaft zu fördern.
+<img src="./assets/klartext-logo.jpeg" style="border: 1px solid black;margin:5px" alt="KlarText Logo" width = "18%"  align="right"/>
+
+**KlarText** ist ein Projekt, das sich der Aufgabe verschrieben hat, komplexe Texte mithilfe von künstlicher Intelligenz in Einfache Sprache umzuwandeln. Die Hauptmotivation hinter diesem Projekt besteht darin, die Zugänglichkeit von Informationen für Menschen mit begrenzter Lesekompetenz, funktionale Analphabeten und Nicht-Muttersprachler signifikant zu verbessern. Im Kern geht es darum, gesellschaftliche Barrieren abzubauen und die Teilhabe in der Gesellschaft zu fördern.
 
 ## Warum Einfache Sprache?
 
-Einfache Sprache, nicht zu verwechseln mit "Leichter Sprache", ist ein mächtiges Instrument, um Informationen für eine breitere Bevölkerungsschicht verständlich und zugänglich zu machen. Es gibt zwar keine festen Regeln für Einfache Sprache, aber einige bewährte Prinzipien:
+**Einfache Sprache**, nicht zu verwechseln mit "Leichter Sprache", ist ein mächtiges Instrument, um Informationen für eine breitere Bevölkerungsschicht verständlich und zugänglich zu machen. Es gibt zwar keine festen Regeln für Einfache Sprache, aber einige bewährte Prinzipien:
 
 - **Klare und logische Satzstruktur**: Sätze sollten einfach und verständlich aufgebaut sein.
 
@@ -120,8 +122,6 @@ Insgesamt strebt KlarText danach, eine leistungsfähige und flexible Lösung ber
 ## Vision
 
 KlarText hat das Ziel, den Zugang zu Informationen und Bildung für alle zu erleichtern und damit einen positiven Beitrag zur Gesellschaft zu leisten. Mit einer starken Open-Source-Community und einer klaren Mission, wird KlarText dazu beitragen, Barrieren zu durchbrechen und die Teilhabe in der Gesellschaft zu fördern.
-
-![KlarText](insert_image_link_here)
 
 **Wir machen komplexe Texte verständlich und verbessern die Lebensqualität von Millionen von Menschen.**
 
